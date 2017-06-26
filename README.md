@@ -18,7 +18,7 @@ Bonne chance! 💪🔥
 
 #### Seriez-vous capable de m’expliquer l’avantage principal de HTTP2 sur HTTP1.1 ?
 
-#### Quels sont les différentes méthodes en HTTP, et quelle est leur fonction?
+#### Quels sont les différentes _methods_ en HTTP, et quelle est leur fonction?
 
 #### Qu'est-ce que le MVC?
 
