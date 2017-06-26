@@ -6,7 +6,7 @@ Les questions suivantes essaient de cibler quels sont exactement vos compétence
 
 Pour réponse à ce test, veuillez vous ouvrir un compte sur Github.com (si vous n'en avez pas déjà un), faire un *fork* de ce repo, répondre aux questions dans un nouveau document sur votre repo et effectuer un *pull request* pour nous soumettre les réponses. (Soyez assurés, les réponses ne resteront pas en ligne très longtemps, et vous pourrez détruire votre *fork* une fois la *pull request* acceptée!). Considérant le temps alloué, je vous suggère d'utiliser l'interface web de Github plutôt que d'aller en ligne de commande! 😉
 
-Celà va de soi, vous avez doit à Internet, ceci étant dit, le temps alloué est relativement court, donc utilisez le avec parcimonie!
+Celà va de soi, vous avez doit à Internet, ceci étant dit, le temps alloué est relativement court, donc utilisez le avec parcimonie! Toujours en raison du temps, ne cherchez pas à donner la réponse la plus longue, mais tenez-vous en au minimum requis!
 
 Bonne chance! 💪🔥
 
