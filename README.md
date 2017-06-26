@@ -13,22 +13,34 @@ Bonne chance! 💪🔥
 ### Généralités
 
 #### Le responsive design… C’est quoi?
+Le responsive design est une façon de faire les interface afin qu'elles soient lisible et esthétiques dans plusieurs résolutions (mobiles, écran HD, 4k, etc). Actuellement, la tendance veut que le design principal soit celui pour mobile, puis adapté pour écrans larges. 
 
 #### Pourriez-vous me donner trois moyens de réduire le temps de chargement d’une page?
+Minifier les feuilles de styles, insérer les scripts à la fin et optimiser les images pour la résolution utilisée du site.
 
 #### Seriez-vous capable de m’expliquer l’avantage principal de HTTP2 sur HTTP1.1 ?
+L'objectif de HTTP2 est d'améliorer la performence des sites et de diminuer les temps de latences du end-user. 
 
 #### Quels sont les différentes _methods_ en HTTP, et quelle est leur fonction?
+Get: Aller chercher l'information entrée par l'utilisateur en les passant par l'URL
+Post: Aller chercher l'information entrée par l'utilisateur directement
+Head: 
+Delete:Efface les données spécifiées
+Trace:
+Connect:
+Option: Afficher les options disponibles
 
 #### Qu'est-ce que le MVC?
 
 #### Sapristi! Un de nos sites WordPress a été hacké. Il affiche des publicités de médicament louches, en russe! Que faire?
+Du code à probablement été injecté dans le site. J'identifierais s'il y a eu des pushs sur le git (s'ils sont passés par quelque par d'aussi évident). Peut-être que revenir à une version précédente du site permettrait d'éliminer le problème. Ensuite, il faudrait réviser la sécurité de l'infrastructure. 
 
 ### CSS / HTML
-
 #### Quels sont le ou les framework que vous avez utilisez en CSS dernièrement? Quel critique pourriez-vous leur faire?
+Actuellement je vois beaucoup le framework SASS dans divers milieux. J'aime beaucoup cette façon de travailler avec CSS, qui regroupe plusieurs éléments en plus de donner des options supplémentaires. Cependant, il peut être difficile à lire par moment à cause des arborescence parfois longue. 
 
 #### Quelle est la différence entre un class et un id en CSS.
+Le ID est appelé à l'aide de '#', à une importance beaucoup plus grande au niveau de l'application des styles(100 unités ou 1000?). Les classes ont un certain poid pour l'application de style, mais beaucoup moindre que les ID (équivaux à 10 unités).
 
 ### Javascript
 
@@ -41,12 +53,18 @@ setTimeout(function() {
 }, 0);
 console.log('three');
 ```
+(dans la console)
+one
+two
+three
 
 ### PHP
 
 #### Quelle est la différence entre `==` et `===`?
+le '==' compare les deux valeurs, alors que '===' compare la valeur et le type de valeur.
 
 #### Quelle est la différence entre une classe et une interface?
+Les interfaces permettent de créer des templates pour ensuite passer ces propriétés aux classes. 
 
 #### Quelle est la valeur de `$resultat` dans le code suivant?
 
@@ -60,7 +78,8 @@ $jour = [
 
 $resultat = ($jour['valeur'] == 3) ? "Nous sommes {$jour['nom']}" : "'Nous ne sommes pas {$jour['nom']}";
 ```
-
+Nous sommes Mercredi
 ### Humour louche de programmeur
 
 #### Si vous avez écouté *Sillicon Valley*, au sujet des indentaions... Espaces ou tabulations?
+Je n'ai pas écouté Sillicon Valley, mais TABULATION. Cependant, des études ont prouvées que les programmeurs utilisant des espaces plutôt que des tabulations ont des salaires plus élevés en moyenne. Terrible. 
