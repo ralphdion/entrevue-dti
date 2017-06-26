@@ -31,6 +31,7 @@ Connect:
 Option: Afficher les options disponibles
 
 #### Qu'est-ce que le MVC?
+Le modèle-vue-controlleur assigne des roles aux différents objets et établie comment les objets communiquent entre eux. 
 
 #### Sapristi! Un de nos sites WordPress a été hacké. Il affiche des publicités de médicament louches, en russe! Que faire?
 Du code à probablement été injecté dans le site. J'identifierais s'il y a eu des pushs sur le git (s'ils sont passés par quelque par d'aussi évident). Peut-être que revenir à une version précédente du site permettrait d'éliminer le problème. Ensuite, il faudrait réviser la sécurité de l'infrastructure. 
