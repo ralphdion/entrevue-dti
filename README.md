@@ -32,7 +32,7 @@ Bonne chance! 💪🔥
 
 ### Javascript
 
-#### Qu'est-ce que se code affiche?
+#### Qu'est-ce que ce code affiche?
 
 ```javascript
 console.log('one');
@@ -44,7 +44,7 @@ console.log('three');
 
 ### PHP
 
-#### Qu’elle est la différence entre `==` et `===`?
+#### Quelle est la différence entre `==` et `===`?
 
 #### Quelle est la différence entre une classe et une interface?
 
